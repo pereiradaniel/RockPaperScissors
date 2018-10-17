@@ -1,5 +1,4 @@
 # Rock, Paper, Scissors javascript game
-=
 
 Javascript project for Codecademy course.
 
